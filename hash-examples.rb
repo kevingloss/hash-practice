@@ -10,3 +10,9 @@ animal = {
   "age" => 8,
   "Location" => "San Francisco Zoo"
 }
+
+customer = {
+  "name" => "John Doe"
+  "regular" => true,
+  "order" => ["Steak", "Bacon", "Whiskey"]
+}
